@@ -1,4 +1,4 @@
-# shopee_order_retreive
+# Shopee Order Retreiver
 
 Retrieve Shopee order history from the browser, sanitize it into a clean JSON format, and sync orders to Google Calendar via an n8n webhook workflow.
 
